@@ -1,11 +1,12 @@
 {
-  "name": "promisify",
-  "version": "0.1.0",
+  "name": "stagas-promisify",
   "description": "converts a callback based api to promise based",
-  "keywords": ["callback","promise","control flow"],
-  "author": "stagas",
-  "license": "MIT",
-  "main": "index.js",
-  "scripts": { "test": "node test/test.js" },
-  "engines": { "node": "*" }
+  "version": "0.1.0",
+  "keywords": [
+    "callback",
+    "promise",
+    "control flow"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
